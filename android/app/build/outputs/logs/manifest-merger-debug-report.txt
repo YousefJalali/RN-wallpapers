@@ -1,361 +1,361 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-MERGED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
-MERGED from [:react-native-share] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-share\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-vector-icons] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-photo-view] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-photo-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-47:12
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:2:1-15:12
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a2ec450c6e9d6356a9b07acd8e5eb617\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:17:1-31:12
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\3933013e31eedc863a61e0f6510aca0b\AndroidManifest.xml:2:1-14:12
-MERGED from [:lottie-react-native] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\lottie-react-native\src\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\lottie-2.5.5.aar\411daa3174020ec1615e987b73855a67\AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:17:1-31:12
-MERGED from [:react-native-linear-gradient] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:17:1-31:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\7c41fa14389d6a85034dffb226f6f785\AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cc9e328c1257e9c1fb92a27f1346650a\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\769076eb40e55f5a18d43108ad5afaf9\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f1710b2ad3f931d94a5b194d26ff37e7\AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\878b9449fafe7b03cba8c8750f25c524\AndroidManifest.xml:1:1-3:12
-MERGED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\7295d2035a7bcb94f567aa9c81078826\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\f1f5e88a0f34797f094f24a85ec62912\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\015b76293dd13483125493bf9392a15a\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\88bdee6271f1e55daa5e37ba65735af1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2665835b1e24719e6f11080f79a71fbc\AndroidManifest.xml:2:1-14:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-share] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-photo-view] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:2:1-15:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/8ce2bd2596c0679c71526275dd6072c4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6c093ed6496c750affbabbad3c8b303e/AndroidManifest.xml:2:1-14:12
+MERGED from [:lottie-react-native] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/lottie-react-native/src/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/def5d3e1a8622d869c1f61cc280bbbed/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:17:1-31:12
+MERGED from [:react-native-linear-gradient] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48e706a6981acedf1a82ecc956e16df1/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/fad205b0371658b026f64c004a41daf0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/10de84764244491c0114aa05c1190337/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb86c93f330365a8dd12a10ae69cb4db/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6eb0669cb0a810aeab3e7456ecfa962c/AndroidManifest.xml:1:1-3:12
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1b38d98bc83528f5c1d05f22d8fd6cdf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/1669cb610ba0128b3ec2974f4f6ca822/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/46a4e5e971b06ba19179839f3ae8c87c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6159290cfa0ce1639462c99e5682e74f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/cf8e31fd39790a31aa2221e05a7912d2/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
 	package
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-67
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-67
-MERGED from [:lottie-react-native] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\lottie-react-native\src\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
-MERGED from [:lottie-react-native] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\lottie-react-native\src\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:lottie-react-native] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/lottie-react-native/src/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/lottie-react-native/src/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:6:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:11:5-78
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:6:22-75
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:6:22-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:8:5-81
-MERGED from [:react-native-share] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-share\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
-MERGED from [:react-native-share] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-share\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:5-81
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:5-81
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:react-native-share] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-share] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:9:5-88
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:9:5-88
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:9:22-85
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:9:22-85
 application
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:11:5-39:19
-MERGED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-17:19
-MERGED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-17:19
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-18:19
-MERGED from [:react-native-photo-view] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-photo-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-11:19
-MERGED from [:react-native-photo-view] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-photo-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-11:19
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:5-45:19
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:5-45:19
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:13:5-20
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a2ec450c6e9d6356a9b07acd8e5eb617\AndroidManifest.xml:11:5-20
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a2ec450c6e9d6356a9b07acd8e5eb617\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:25:5-29:19
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\3933013e31eedc863a61e0f6510aca0b\AndroidManifest.xml:12:5-20
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\3933013e31eedc863a61e0f6510aca0b\AndroidManifest.xml:12:5-20
-MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\lottie-2.5.5.aar\411daa3174020ec1615e987b73855a67\AndroidManifest.xml:11:5-20
-MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\lottie-2.5.5.aar\411daa3174020ec1615e987b73855a67\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:25:5-29:19
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f1710b2ad3f931d94a5b194d26ff37e7\AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f1710b2ad3f931d94a5b194d26ff37e7\AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\878b9449fafe7b03cba8c8750f25c524\AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\878b9449fafe7b03cba8c8750f25c524\AndroidManifest.xml:2:3-17
-MERGED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:9:5-12:19
-MERGED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:9:5-12:19
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2665835b1e24719e6f11080f79a71fbc\AndroidManifest.xml:12:5-20
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2665835b1e24719e6f11080f79a71fbc\AndroidManifest.xml:12:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:24:5-28:19
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-17:19
+MERGED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-17:19
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-photo-view] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-11:19
+MERGED from [:react-native-photo-view] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-11:19
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:13:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/8ce2bd2596c0679c71526275dd6072c4/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/8ce2bd2596c0679c71526275dd6072c4/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6c093ed6496c750affbabbad3c8b303e/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6c093ed6496c750affbabbad3c8b303e/AndroidManifest.xml:12:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/def5d3e1a8622d869c1f61cc280bbbed/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/def5d3e1a8622d869c1f61cc280bbbed/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb86c93f330365a8dd12a10ae69cb4db/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb86c93f330365a8dd12a10ae69cb4db/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6eb0669cb0a810aeab3e7456ecfa962c/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/6eb0669cb0a810aeab3e7456ecfa962c/AndroidManifest.xml:2:3-17
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:9:5-12:19
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:9:5-12:19
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/cf8e31fd39790a31aa2221e05a7912d2/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/cf8e31fd39790a31aa2221e05a7912d2/AndroidManifest.xml:12:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:13:7-39
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:13:7-39
 	android:icon
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:14:7-41
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:14:7-41
 	android:allowBackup
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:15:7-34
-		REJECTED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:10:9-35
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:15:7-34
+		REJECTED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:16:7-38
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:16:7-38
 	tools:replace
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:17:7-42
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:17:7-42
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:12:7-38
 activity#com.backgroundsapp.MainActivity
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:18:7-27:18
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:18:7-27:18
 	android:label
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:20:9-41
 	android:windowSoftInputMode
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:22:9-51
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:22:9-51
 	android:configChanges
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:21:9-79
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:21:9-79
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:19:9-37
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:19:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:23:9-26:25
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:24:13-65
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:24:21-62
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:25:13-73
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:25:23-70
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:25:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:28:7-84
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-17:40
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:28:7-84
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-37
+		ADDED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:28:17-81
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:28:17-81
 provider#android.support.v4.content.FileProvider
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:29:7-38:18
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-44:20
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-44:20
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:29:7-38:18
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
 	android:grantUriPermissions
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:32:11-45
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:32:11-45
 	android:authorities
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:31:11-60
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:31:11-60
 	android:exported
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:33:11-35
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:33:11-35
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:30:11-65
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:30:11-65
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:34:11-37:50
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:13-43:58
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:13-43:58
+ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:34:11-37:50
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
 	android:resource
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:36:15-48
-		REJECTED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:17-55
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:36:15-48
+		REJECTED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
 	tools:replace
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:37:15-47
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:37:15-47
 	android:name
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:35:15-65
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:35:15-65
 uses-sdk
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-share\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-share\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-photo-view] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-photo-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-photo-view] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-photo-view\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2a479cc2519b148809beecfbe0e19ec9\AndroidManifest.xml:7:5-9:41
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a2ec450c6e9d6356a9b07acd8e5eb617\AndroidManifest.xml:7:5-9:41
-MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.0.6.aar\a2ec450c6e9d6356a9b07acd8e5eb617\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:21:5-23:62
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\3933013e31eedc863a61e0f6510aca0b\AndroidManifest.xml:8:5-10:41
-MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-toolbar-1.5.4.aar\3933013e31eedc863a61e0f6510aca0b\AndroidManifest.xml:8:5-10:41
-MERGED from [:lottie-react-native] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\lottie-react-native\src\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:lottie-react-native] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\lottie-react-native\src\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\lottie-2.5.5.aar\411daa3174020ec1615e987b73855a67\AndroidManifest.xml:7:5-9:41
-MERGED from [com.airbnb.android:lottie:2.5.5] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\lottie-2.5.5.aar\411daa3174020ec1615e987b73855a67\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:21:5-23:78
-MERGED from [:react-native-linear-gradient] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-linear-gradient\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:21:5-23:58
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\7c41fa14389d6a85034dffb226f6f785\AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\7c41fa14389d6a85034dffb226f6f785\AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cc9e328c1257e9c1fb92a27f1346650a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cc9e328c1257e9c1fb92a27f1346650a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\769076eb40e55f5a18d43108ad5afaf9\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\769076eb40e55f5a18d43108ad5afaf9\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f1710b2ad3f931d94a5b194d26ff37e7\AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f1710b2ad3f931d94a5b194d26ff37e7\AndroidManifest.xml:2:3-70
-MERGED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:7:5-44
-MERGED from [me.relex:photodraweeview:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\photodraweeview-1.0.0.aar\d4a3de5a0d9c2973f6f64d4f2e5e39ed\AndroidManifest.xml:7:5-44
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\7295d2035a7bcb94f567aa9c81078826\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\7295d2035a7bcb94f567aa9c81078826\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\f1f5e88a0f34797f094f24a85ec62912\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\f1f5e88a0f34797f094f24a85ec62912\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\015b76293dd13483125493bf9392a15a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\015b76293dd13483125493bf9392a15a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\88bdee6271f1e55daa5e37ba65735af1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\88bdee6271f1e55daa5e37ba65735af1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2665835b1e24719e6f11080f79a71fbc\AndroidManifest.xml:8:5-10:41
-MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\material-menu-1.5.4.aar\2665835b1e24719e6f11080f79a71fbc\AndroidManifest.xml:8:5-10:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-photo-view] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-photo-view] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.2] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.2.aar/3083e8d2487eb33d6b489ed070f64523/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/8ce2bd2596c0679c71526275dd6072c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/8ce2bd2596c0679c71526275dd6072c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6c093ed6496c750affbabbad3c8b303e/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/6c093ed6496c750affbabbad3c8b303e/AndroidManifest.xml:8:5-10:41
+MERGED from [:lottie-react-native] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/lottie-react-native/src/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/lottie-react-native/src/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/def5d3e1a8622d869c1f61cc280bbbed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.5.5] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/lottie-2.5.5.aar/def5d3e1a8622d869c1f61cc280bbbed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:21:5-23:78
+MERGED from [:react-native-linear-gradient] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48e706a6981acedf1a82ecc956e16df1/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/48e706a6981acedf1a82ecc956e16df1/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/fad205b0371658b026f64c004a41daf0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/fad205b0371658b026f64c004a41daf0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/10de84764244491c0114aa05c1190337/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/10de84764244491c0114aa05c1190337/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb86c93f330365a8dd12a10ae69cb4db/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb86c93f330365a8dd12a10ae69cb4db/AndroidManifest.xml:2:3-70
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:7:5-44
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/81f3a76021f6b9e4e2b816678ef5970b/AndroidManifest.xml:7:5-44
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1b38d98bc83528f5c1d05f22d8fd6cdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/1b38d98bc83528f5c1d05f22d8fd6cdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/1669cb610ba0128b3ec2974f4f6ca822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/1669cb610ba0128b3ec2974f4f6ca822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/46a4e5e971b06ba19179839f3ae8c87c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/46a4e5e971b06ba19179839f3ae8c87c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6159290cfa0ce1639462c99e5682e74f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6159290cfa0ce1639462c99e5682e74f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/cf8e31fd39790a31aa2221e05a7912d2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/cf8e31fd39790a31aa2221e05a7912d2/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		ADDED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-72
+ADDED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-72
 	android:name
-		ADDED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-69
+		ADDED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-69
 meta-data#com.cunyutech.hollyliu.reactnative.wallpaper.MyGlideModule
-ADDED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-16:43
+ADDED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-16:43
 	android:value
-		ADDED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-40
+		ADDED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-40
 	android:name
-		ADDED from [:react-native-wallpaper-manager] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-wallpaper-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-86
+		ADDED from [:react-native-wallpaper-manager] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-wallpaper-manager/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-86
 activity#com.reactnativenavigation.controllers.NavigationActivity
-ADDED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-14:86
+ADDED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
 	android:configChanges
-		ADDED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-83
+		ADDED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
 	android:name
-		ADDED from [:react-native-navigation] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\react-native-navigation\android\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-84
+		ADDED from [:react-native-navigation] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-73
+ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:22-70
+		ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-68
+ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
 	android:name
-		ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:22-65
+		ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:5-79
+ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:22-76
+		ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:5-76
+ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
 	android:name
-		ADDED from [:rn-fetch-blob] E:\Javascript\Projects\practice-projects\backgrounds-app\node_modules\rn-fetch-blob\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:22-73
+		ADDED from [:rn-fetch-blob] /Users/jbygoal/Documents/Projects/RN-wallpapers/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\66efc1641c9637d7ecce94bfa4525bb3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c665b0f79b7ee2612acd6b04588e0298\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\915ba8cb761d892ce60b56051b1e76bb\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\96a7ad1d81d6308ca2aea0fa3796bd97\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e6852755f361709f2bbdecf147f65191\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3c2c45d6231d1c1e16cd40e7d4f909cf\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\54f4f7f159e8009522aaf7bbbed8f0cb\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3254ad4cfb2d3128e73f0ef61c826b52\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\b0acca5df73ff28a618d7d46182290ae\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0ae37121b78531cfedb93f983e45647c\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\175d7f0f8754d900c7e630d2980db3d2\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4ca20454e966a6553f7e5190c9812628/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/894652732457d052f4928221d7fb6f1d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/befaaaf1846711cb7a8217b5ff8c80a2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/68d2a5151b244ea76159f8f6811719c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f4aeb42b4f30c72aa5dbb0970cd82555/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d978f86af8cada108e97a34771647adc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4057f18ffe83062e0cb9e1ecc8d0c77e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/05bee775c86644c3911ef5c1d1d3dc16/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/add6fefbeb330d9d4ff39932ad79d61c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0f5921c9efaf52a40f25ea8bea788bde/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:design:26.1.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\4565efd988534997b6fa4f27c8b8ac83\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\src\main\AndroidManifest.xml:1:1-41:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/src/main/AndroidManifest.xml:1:1-41:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\ucef-\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c3c0354950262b7ce5bfa38985dd5efa\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/jbygoal/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e2dbb3a2a723507316e613688a36127/AndroidManifest.xml:26:13-58

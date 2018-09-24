@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Javascript\\Projects\\practice-projects\\backgrounds-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
+            "outputFile": "/Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ucef-\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\66efc1641c9637d7ecce94bfa4525bb3\\res\\values-el\\values-el.xml",
+                    "source": "/Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/res/values-el/values-el.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

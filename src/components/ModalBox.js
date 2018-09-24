@@ -9,7 +9,7 @@ class ModalBox extends Component {
   componentDidMount() {
     Animated.timing(this.state.modalBoxAnim, {
       toValue: 1,
-      duration: 1000,
+      duration: 500,
       useNativeDriver: true
     }).start();
   }

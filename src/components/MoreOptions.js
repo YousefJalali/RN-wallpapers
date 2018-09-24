@@ -25,7 +25,7 @@ class MoreOptions extends Component {
   componentDidMount() {
     Animated.timing(this.state.scaleAnim, {
       toValue: 184,
-      duration: 1000
+      duration: 500
     }).start();
   }
 

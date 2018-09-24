@@ -24,7 +24,7 @@ class ShareDialog extends Component {
   componentDidMount() {
     Animated.timing(this.state.slideAnim, {
       toValue: 0,
-      duration: 1000
+      duration: 500
     }).start();
   }
 
@@ -55,8 +55,6 @@ class ShareDialog extends Component {
           onCancel={this.onCancel.bind(this)}
         >
           <Button
-            // iconSrc={{ uri: this.props.iconsMap[3] }}
-            // iconSrc={this.props.iconsMap[3]}
             onPress={() => {
               this.onCancel();
               setTimeout(() => {
