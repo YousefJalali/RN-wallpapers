@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-1.5.4_59bc33a8aa392bb9be52c3ee4e09cab9385d14c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_aa5054f7f6f9fa97224cd70b632d184cc7710e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4d24ed506337258b087c7279b5de18d259be00ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8a0cd95541b2dbdfee457dc640193c16b301d9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f734be13d86cf5690d8a97e231be7b8446f45123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_4d24ed506337258b087c7279b5de18d259be00ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.balysv.materialmenu\material-menu-toolbar\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.balysv.materialmenu-material-menu-toolbar-1.5.4_b8568ebd6ee509a9bbd1575f33d53b2a3843ad9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_6b79e45b768a3e2ab15bdd05f2a096839b9d0348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8a0cd95541b2dbdfee457dc640193c16b301d9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b769704bf6042ec31afadc8e08482c2ddcacb8f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f734be13d86cf5690d8a97e231be7b8446f45123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3045a1b203ae1fa86f1075d13de4fa20e6446701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_cd844206250d6a5841151481fc5ea502a0b0c6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_cd844206250d6a5841151481fc5ea502a0b0c6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_de5c71cbae6e4913191d9bebf25720714b04ccbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_c23caa729aba2901ede4c63088bb50d29d58dac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1480c152d5f991a7d8c03131471fef5b6e65ac41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.aurelhubert\ahbottomnavigation\2.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.aurelhubert-ahbottomnavigation-2.0.6_fc06fcc66465d2ea2b88b0022b96db82f79dcff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1bec4f590b559120800d1163691cb19bcf8c17b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_aa5054f7f6f9fa97224cd70b632d184cc7710e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8ce5ece794b31811d9424ad490bb6b139b6c43c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_b13e2ca1b7ee3b1fc1bf112bbcb02ada7ce0419e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_8ce5ece794b31811d9424ad490bb6b139b6c43c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_1d136957152cf752e91bb51cc247ac0976c9ea59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3045a1b203ae1fa86f1075d13de4fa20e6446701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_af0519a2d330003d51b92bf0cfb76de586ce4ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_f1d012057e8073000195a898a64875c81600e614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_1d136957152cf752e91bb51cc247ac0976c9ea59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_219c0efa63be0b718c71bce6b81f035bc15f0b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_6c8f86763bb19a1632e957de4a62c0a06279d8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_de5c71cbae6e4913191d9bebf25720714b04ccbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_a48a02b4191f97c768b6d7317350a0b1bea03291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7c448dd2eb2fab646763e331fcbf2edc185281c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8ba134362b4ede24fa224dffbee98f878402444d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_21b123abdee6a86d27e51753fbb9761115d91d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_1480c152d5f991a7d8c03131471fef5b6e65ac41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_77a3a679bd0e839a1b635421c93f02034a1999b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\backgroundsapp\react-native-navigation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ab538d978c1fcab7f89c5f96ad75f1305d4f7e80">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\backgroundsapp-react-native-navigation-unspecified_52f7223747e9c85280cec62a6c70194f0cb14836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_88d37664d3056cdd27a01f9d9081cc7d68b8db70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\backgroundsapp\react-native-photo-view\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8047018231b8b3e0bcfcbff7f57d6bbfd9a1e17e">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\backgroundsapp-react-native-photo-view-unspecified_607b38aa64b67a8a4d42bdb9778f5c38d6d7c4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_e9c6b943fbea9d20dcc551f520af7a1e45f033b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_51d68f09caa36d9c2e471f740961a444f59c6805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_29c257b341e7dc991c0d3ff0b6e2a202795ca526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_21b123abdee6a86d27e51753fbb9761115d91d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_59df36cbf058dfd7d669fbb2acfb4b8cfda57b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_e9c6b943fbea9d20dcc551f520af7a1e45f033b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\backgroundsapp\react-native-linear-gradient\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="10bce3308649051968a5a024ca15a2193838eed4">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\backgroundsapp-react-native-linear-gradient-unspecified_398eff8ad0cd2ee7974e747bfb2332c2705b3754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_3c9721493cf6298691822288f1817d56b3b64437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7c448dd2eb2fab646763e331fcbf2edc185281c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_59df36cbf058dfd7d669fbb2acfb4b8cfda57b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_3c9721493cf6298691822288f1817d56b3b64437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\me.relex\photodraweeview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\me.relex-photodraweeview-1.0.0_d8ecb3e2180314340093ca5041f0e760cb12ab3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\backgroundsapp\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\backgroundsapp-react-native-vector-icons-unspecified_b5815076cb4f90586b0d9b43941fa54b19c5da42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_9d96d873b40c644e36f335ed13b7dcb28e333475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ucef-\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_51d68f09caa36d9c2e471f740961a444f59c6805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Javascript\Projects\practice-projects\backgrounds-app\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_29c257b341e7dc991c0d3ff0b6e2a202795ca526.jar" />
+    </item>
+
+</items>
