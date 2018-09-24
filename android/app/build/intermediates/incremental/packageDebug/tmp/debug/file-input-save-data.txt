@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 24 12:26:25 AST 2018
+#Mon Sep 24 16:17:27 AST 2018
 23.set=NATIVE_RESOURCE
 31.set=NATIVE_RESOURCE
 33.base=/Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

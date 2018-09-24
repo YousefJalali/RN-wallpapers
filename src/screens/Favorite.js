@@ -15,7 +15,6 @@ import Header from "../components/Header";
 import Icon from "react-native-vector-icons/Ionicons";
 
 class Favorite extends Component {
-
   state = {
     source: "favorites"
   };
@@ -45,8 +44,14 @@ class Favorite extends Component {
   };
 
   render() {
-    let favWallpapers = <Text>Loading...</Text>;
-    if (this.props.wallpapers) {
+    let favWallpapers = (
+      <View>
+        <Header title="FAVORITE" />
+        <Text style={styles.noFavText}>No favorite wallpapers :\</Text>
+      </View>
+    );
+
+    if (this.props.favorites.length !== 0) {
       favWallpapers = (
         <FlatList
           data={this.props.favorites}
@@ -57,7 +62,9 @@ class Favorite extends Component {
             index
           })}
           ListHeaderComponent={() => <Header title="FAVORITE" />}
-          renderItem={info => (
+          renderItem={info => {
+            console.log(info === true)
+            return (
             <TouchableOpacity
               key={info.item.key}
               style={styles.imgLink}
@@ -65,7 +72,7 @@ class Favorite extends Component {
             >
               <Image source={info.item.wallpaper} style={styles.img} />
             </TouchableOpacity>
-          )}
+          )}}
         />
       );
     }
@@ -99,6 +106,13 @@ const styles = StyleSheet.create({
     color: "#ededed",
     marginLeft: 5,
     fontWeight: "bold"
+  },
+  noFavText: {
+    textAlign: "center",
+    color: "#ededed30",
+    fontSize: 20,
+    fontFamily: "Raleway-Bold",
+    marginTop: "20%"
   }
 });
 
