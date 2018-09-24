@@ -15,7 +15,7 @@ import {
   moreOptionsInvisible,
   saveToCameraRoll
 } from "../store/actions/index";
-import WallPaperManager from "react-native-wallpaper-manager";
+// import WallPaperManager from "react-native-wallpaper-manager";
 
 class MoreOptions extends Component {
   state = {
@@ -24,7 +24,7 @@ class MoreOptions extends Component {
 
   componentDidMount() {
     Animated.timing(this.state.scaleAnim, {
-      toValue: 184,
+      toValue: 128,
       duration: 500
     }).start();
   }
@@ -37,14 +37,14 @@ class MoreOptions extends Component {
     this.props.onMoreOptionsInvisible();
     this.props.onShareDialogVisible();
   };
-  onSetWallpaperHandler = () => {
-    this.props.onMoreOptionsInvisible();
-    console.log(this.props.wallpaper.uri);
-    WallPaperManager.setWallPaper({ uri: "https://i.redd.it/f0ujrjilatj01.jpg" }, res =>
-    // WallPaperManager.setWallPaper({ uri: this.props.wallpaper.uri }, res =>
-      console.log(res)
-    );
-  };
+  // onSetWallpaperHandler = () => {
+  //   this.props.onMoreOptionsInvisible();
+  //   console.log(this.props.wallpaper.uri);
+  //   WallPaperManager.setWallPaper({ uri: "https://i.redd.it/f0ujrjilatj01.jpg" }, res =>
+  //   // WallPaperManager.setWallPaper({ uri: this.props.wallpaper.uri }, res =>
+  //     console.log(res)
+  //   );
+  // };
   render() {
     return (
         <Animated.View
@@ -52,7 +52,7 @@ class MoreOptions extends Component {
             styles.moreOptions,
             { height: this.state.scaleAnim,
               width: this.state.scaleAnim.interpolate({
-                inputRange: [0, 184],
+                inputRange: [0, 128],
                 outputRange: [0, 200]
               }) }
           ]}
@@ -87,7 +87,7 @@ class MoreOptions extends Component {
             </View>
           </TouchableOpacity>
 
-          <TouchableOpacity
+          {/* <TouchableOpacity
             onPress={this.onSetWallpaperHandler}
             style={styles.rowContainer}
           >
@@ -100,7 +100,7 @@ class MoreOptions extends Component {
               />
               <Text style={styles.text}>Set as wallpaper</Text>
             </View>
-          </TouchableOpacity>
+          </TouchableOpacity> */}
         </Animated.View>
     );
   }
@@ -108,7 +108,7 @@ class MoreOptions extends Component {
 
 const styles = StyleSheet.create({
   moreOptions: {
-    height: 184,
+    height: 128,
     width: 200,
     position: "absolute",
     right: 10,
