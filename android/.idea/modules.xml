@@ -5,11 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/backgroundsapp.iml" filepath="$PROJECT_DIR$/backgroundsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/lottie-react-native.iml" filepath="$PROJECT_DIR$/../node_modules/lottie-react-native/src/android/lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-admob/android/react-native-admob.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-admob/android/react-native-admob.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-navigation/android/app/react-native-navigation.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-navigation/android/app/react-native-navigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-share/android/react-native-share.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-share/android/react-native-share.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-wallpaper-manager/android/react-native-wallpaper-manager.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-wallpaper-manager/android/react-native-wallpaper-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" />

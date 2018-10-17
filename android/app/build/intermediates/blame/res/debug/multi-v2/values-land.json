@@ -4,7 +4,7 @@
             "outputFile": "/Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d84bf04f431270f0c3c8c288040ab7bd/res/values-land/values-land.xml",
+                    "source": "/Users/jbygoal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95c56c6c51fe9701e472dcd5960c4917/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/247b16554206fca9fa7ccd55e355e2b6/res/values-land/values-land.xml",
+                    "source": "/Users/jbygoal/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/1745fcc22775c4c4e1f283e1a73be4f0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

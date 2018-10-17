@@ -63,7 +63,6 @@ class Favorite extends Component {
           })}
           ListHeaderComponent={() => <Header title="FAVORITE" />}
           renderItem={info => {
-            console.log(info === true)
             return (
             <TouchableOpacity
               key={info.item.key}

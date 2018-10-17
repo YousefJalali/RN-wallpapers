@@ -21,19 +21,17 @@ class ModalBox extends Component {
           {
             opacity: this.state.modalBoxAnim,
             transform: [
-                {
-                    scale: this.state.modalBoxAnim
-                }
+              {
+                scale: this.state.modalBoxAnim
+              }
             ]
           }
         ]}
       >
-        {/* <View style={styles.container}> */}
         <View style={styles.modalBox}>
           <Icon name="md-checkmark" size={50} color="#ededed" />
           <Text style={styles.text}>{this.props.message}</Text>
         </View>
-        {/* </View> */}
       </Animated.View>
     );
   }

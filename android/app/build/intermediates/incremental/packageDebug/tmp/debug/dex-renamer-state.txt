@@ -1,4 +1,4 @@
-#Mon Sep 24 16:17:18 AST 2018
+#Wed Oct 17 17:32:34 AST 2018
 base.0=/Users/jbygoal/Documents/Projects/RN-wallpapers/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

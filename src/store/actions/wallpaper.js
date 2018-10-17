@@ -32,8 +32,7 @@ export const fetchWallpapers = () => {
         dispatch(setWallpapers(wallpapers));
       })
       .catch(err => {
-        alert("No connection");
-        console.log(err);
+        alert("No internet connection!");
       });
   };
 };
@@ -47,7 +46,6 @@ export const setWallpapers = wallpapers => {
 
 export const saveToCameraRoll = wallpaper => {
   return dispatch => {
-    console.log(wallpaper.uri);
     dispatch(loadingStart());
     RNFetchBlob.config({
       fileCache: true,
@@ -55,17 +53,15 @@ export const saveToCameraRoll = wallpaper => {
     })
       .fetch("GET", wallpaper.uri)
       .then(res => {
-        console.log(res);
         CameraRoll.saveToCameraRoll(res.path())
           .then(() => {
             dispatch(loadingEnd());
             dispatch(modalBoxVisible());
-            console.log("Saved !");
             setTimeout(() => {
               dispatch(modalBoxInvisible());
             }, 1500);
           })
-          .catch(err => console.log("err:", err));
+          .catch(err => alert(err));
       });
   };
 };

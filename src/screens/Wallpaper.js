@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { View, StyleSheet, Dimensions } from "react-native";
 
+import { AdMobInterstitial } from "react-native-admob";
+
 import GestureRecognizer, {
   swipeDirections
 } from "react-native-swipe-gestures";
@@ -17,6 +19,7 @@ import MoreOptions from "../components/MoreOptions";
 import ShareDialog from "../components/ShareDialog";
 import ModalBox from "../components/ModalBox";
 import Spinner from "../components/Spinner";
+import AdBanner from "../components/AdBanner";
 
 class Wallpaper extends Component {
   constructor(props) {
@@ -27,6 +30,12 @@ class Wallpaper extends Component {
       wallpaper: this.props.wallpaper,
       source: this.props.source
     };
+  }
+
+  componentDidMount() {
+    AdMobInterstitial.setAdUnitID("/6499/example/interstitial");
+    AdMobInterstitial.setTestDevices([AdMobInterstitial.simulatorId]);
+    AdMobInterstitial.requestAd().then(() => AdMobInterstitial.showAd());
   }
 
   static navigatorStyle = {
@@ -50,7 +59,6 @@ class Wallpaper extends Component {
   };
 
   onNavigatorEvent = event => {
-    console.log(event);
     if (event.type === "NavBarButtonPress") {
       if (event.id === "favorite") {
         this.props.onAddFavorite(this.state.wallpaper.key);
@@ -75,15 +83,12 @@ class Wallpaper extends Component {
       wallpaper => wallpaper.key === this.state.wallpaper.key
     );
     if (fv) {
-      console.log("favorite:", fv.key);
-      console.log("wallpaper:", this.state.wallpaper.key);
       if (this.state.wallpaper.key === fv.key) {
         isFav = true;
       } else {
         isFav = false;
       }
     } else {
-      console.log("not in fav");
       isFav = false;
     }
     return isFav;
@@ -160,7 +165,6 @@ class Wallpaper extends Component {
             () => this.changeFavIcon()
           );
         }
-        console.log("right");
         break;
     }
   };
@@ -221,6 +225,7 @@ class Wallpaper extends Component {
     };
     return (
       <View style={styles.container}>
+        <AdBanner />
         {/* {this.props.shareDialogVisible ? shareDialog : null} */}
         {shareDialog}
         {options}

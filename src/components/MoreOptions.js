@@ -15,7 +15,6 @@ import {
   moreOptionsInvisible,
   saveToCameraRoll
 } from "../store/actions/index";
-// import WallPaperManager from "react-native-wallpaper-manager";
 
 class MoreOptions extends Component {
   state = {
@@ -47,47 +46,49 @@ class MoreOptions extends Component {
   // };
   render() {
     return (
-        <Animated.View
-          style={[
-            styles.moreOptions,
-            { height: this.state.scaleAnim,
-              width: this.state.scaleAnim.interpolate({
-                inputRange: [0, 128],
-                outputRange: [0, 200]
-              }) }
-          ]}
+      <Animated.View
+        style={[
+          styles.moreOptions,
+          {
+            height: this.state.scaleAnim,
+            width: this.state.scaleAnim.interpolate({
+              inputRange: [0, 128],
+              outputRange: [0, 200]
+            })
+          }
+        ]}
+      >
+        <TouchableOpacity
+          onPress={this.onDownloadHandler}
+          style={styles.rowContainer}
         >
-          <TouchableOpacity
-            onPress={this.onDownloadHandler}
-            style={styles.rowContainer}
-          >
-            <View style={styles.row}>
-              <Icon
-                name="md-download"
-                size={24}
-                color="#232931"
-                style={styles.icon}
-              />
-              <Text style={styles.text}>Save</Text>
-            </View>
-          </TouchableOpacity>
+          <View style={styles.row}>
+            <Icon
+              name="md-download"
+              size={24}
+              color="#232931"
+              style={styles.icon}
+            />
+            <Text style={styles.text}>Save</Text>
+          </View>
+        </TouchableOpacity>
 
-          <TouchableOpacity
-            onPress={this.onShareHandler}
-            style={styles.rowContainer}
-          >
-            <View style={styles.row}>
-              <Icon
-                name="md-share"
-                size={24}
-                color="#232931"
-                style={styles.icon}
-              />
-              <Text style={styles.text}>Share</Text>
-            </View>
-          </TouchableOpacity>
+        <TouchableOpacity
+          onPress={this.onShareHandler}
+          style={styles.rowContainer}
+        >
+          <View style={styles.row}>
+            <Icon
+              name="md-share"
+              size={24}
+              color="#232931"
+              style={styles.icon}
+            />
+            <Text style={styles.text}>Share</Text>
+          </View>
+        </TouchableOpacity>
 
-          {/* <TouchableOpacity
+        {/* <TouchableOpacity
             onPress={this.onSetWallpaperHandler}
             style={styles.rowContainer}
           >
@@ -101,7 +102,7 @@ class MoreOptions extends Component {
               <Text style={styles.text}>Set as wallpaper</Text>
             </View>
           </TouchableOpacity> */}
-        </Animated.View>
+      </Animated.View>
     );
   }
 }

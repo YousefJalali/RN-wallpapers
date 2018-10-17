@@ -12,7 +12,8 @@ import {
 import LinearGradient from "react-native-linear-gradient";
 import Icon from "react-native-vector-icons/Ionicons";
 import { fetchWallpapers, getIcons } from "../store/actions/index";
-import Header from '../components/Header';
+import Header from "../components/Header";
+import AdBanner from "../components/AdBanner";
 
 class Wallpapers extends Component {
   constructor(props) {
@@ -111,7 +112,12 @@ class Wallpapers extends Component {
         />
       );
     }
-    return <View style={styles.container}>{wallpapers}</View>;
+    return (
+      <View style={styles.container}>
+        {wallpapers}
+        <AdBanner />
+      </View>
+    );
   }
 }
 

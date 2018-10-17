@@ -3,7 +3,14 @@ package com.backgroundsapp;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.cunyutech.hollyliu.reactnative.wallpaper.WallPaperPackage;
+import com.sbugert.rnadmob.RNAdMobPackage;
+import com.RNFetchBlob.RNFetchBlobPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import cl.json.RNSharePackage;
+import com.reactnative.photoview.PhotoViewPackage;
+
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.airbnb.android.react.lottie.LottiePackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -21,7 +28,7 @@ import com.airbnb.android.react.lottie.LottiePackage;
 import java.util.Arrays;
 import java.util.List;
 
-public class MainApplication extends NavigationApplication implements ShareApplication, ReactApplication {
+public class MainApplication extends NavigationApplication implements ShareApplication {
 
   @Override
   public boolean isDebug() {
@@ -39,7 +46,8 @@ public class MainApplication extends NavigationApplication implements ShareAppli
           new LinearGradientPackage(),
           new RNSharePackage(),
           new RNFetchBlobPackage(),
-          new LottiePackage()
+          new LottiePackage(),
+          new RNAdMobPackage()
       );
   }
 
